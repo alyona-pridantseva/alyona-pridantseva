@@ -51,6 +51,6 @@
 ---
 
 ## 📫 Контакты
-📧 aly0n.prid@yandex.ru
+📧 aly0n.prid@yandex.ru \
 📱 [Telegram](https://t.me/Aly0na_99)
 
